@@ -12,6 +12,28 @@ A beautiful, responsive portfolio website built with vanilla HTML, CSS, and Java
 - 🌙 Optimized performance
 - 🎯 SEO friendly
 
+The server will start on `http://localhost:3000`
+
+## Deployment
+
+This server is deployed on [Render](https://render.com). You can access the live version at: [https://intertechub-backend-stage-1.onrender.com/](https://intertechub-backend-stage-1.onrender.com/)
+
+## GitHub Repository
+
+The source code for this project is available on GitHub: [https://github.com/TeddyMeg/intertechub_frontend_stage_1](https://github.com/TeddyMeg/intertechub_frontend_stage_1)
+
+## Setup Instructions
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Start the server:
+   ```bash
+   npm run start
+   ```
+
 ## Project Structure
 
 ```
