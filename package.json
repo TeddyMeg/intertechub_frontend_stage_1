@@ -2,10 +2,10 @@
   "name": "portfolio-website",
   "version": "1.0.0",
   "description": "This is a simple web responsive portfolio website created using html, css and javascript",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "serve -s ." 
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/TeddyMeg/intertechub_frontend_stage_1#readme",
   "dependencies": {
-    "serve": "^14.2.4"
+    "express": "^4.21.1",
+    "serve": "^14.2.4",
+    "path": "^0.12.7"
   }
 }

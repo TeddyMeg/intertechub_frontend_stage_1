@@ -31,13 +31,13 @@ The source code for this project is available on GitHub: [https://github.com/Ted
 
 2. Start the server:
    ```bash
-   npm run start
+   npm run build
    ```
 
 ## Project Structure
 
 ```
-portfolio/
+public/
 ├── index.html          # Main HTML file
 ├── css/
 │   ├── style.css      # Main styles
