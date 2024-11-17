@@ -31,7 +31,7 @@ const projects = [
     {
         title: "MERN Stack Movies App",
         description: "A MERN Stack Movies App that allows users to search for movies, view details, and add them to their favorites list.  This project is a full-stack movie application built using the MERN stack (MongoDB, Express.js, React, and Node.js).",
-        image: "../assets/project-4.png",
+        image: "../assets/project-5.png",
         tags: ["React", "CSS", "TMDB API", "Express", "MongoDB"],
         link: "https://github.com/TeddyMeg/Movie_MERN"
     },
