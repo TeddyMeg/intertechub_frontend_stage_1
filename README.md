@@ -16,7 +16,7 @@ The server will start on `http://localhost:3000`
 
 ## Deployment
 
-This server is deployed on [Render](https://render.com). You can access the live version at: [https://intertechub-backend-stage-1.onrender.com/](https://intertechub-backend-stage-1.onrender.com/)
+This server is deployed on [Vercel](https://render.com). You can access the live version at: [https://intertechub-frontend-stage-1.vercel.app/](https://intertechub-frontend-stage-1.vercel.app/)
 
 ## GitHub Repository
 
